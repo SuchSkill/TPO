@@ -12,7 +12,6 @@ public class ClientOld {
         Socket echoSocket = null;
         // strumień do zapisu do serwera
         PrintWriter out = null;
-        // strumień do odczytu z serwera
         BufferedReader in = null;
         // nazwa serwera
         String hostname = "localhost";
